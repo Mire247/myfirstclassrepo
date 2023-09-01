@@ -2,3 +2,6 @@
 #This is my first change for first class repo
 #i made my first changes today
 #today was sunny
+#This is my first change for first class repo
+#i made my first changes today
+#today was sunny
